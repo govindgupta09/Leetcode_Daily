@@ -15,11 +15,13 @@ Leetcode_Daily............!!
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -41,4 +43,8 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
