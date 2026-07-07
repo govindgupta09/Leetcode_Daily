@@ -122,4 +122,8 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
