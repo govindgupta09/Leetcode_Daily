@@ -95,6 +95,7 @@ Leetcode_Daily............!!
 | [1331-rank-transform-of-an-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -106,6 +107,7 @@ Leetcode_Daily............!!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -221,4 +223,8 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
