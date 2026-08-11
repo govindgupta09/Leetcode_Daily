@@ -9,7 +9,6 @@ class Solution {
         for(int i=1;i<nums.length;i++){
             if(nums[i] == nums[i-1]+1){
                 sum+=nums[i];
-                System.out.println(sum);
             }else{
                 break;
             }
