@@ -344,4 +344,8 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
