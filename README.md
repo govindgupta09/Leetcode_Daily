@@ -348,4 +348,5 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
