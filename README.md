@@ -253,6 +253,7 @@ Leetcode_Daily............!!
 ## Math
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0877-stone-game) |
@@ -379,6 +380,7 @@ Leetcode_Daily............!!
 | [0142-linked-list-cycle-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0382-linked-list-random-node) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -391,4 +393,12 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
