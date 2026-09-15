@@ -100,6 +100,7 @@ Leetcode_Daily............!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -380,6 +381,7 @@ Leetcode_Daily............!!
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0328-odd-even-linked-list) |
@@ -391,10 +393,12 @@ Leetcode_Daily............!!
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Reservoir Sampling
 |  |
@@ -408,4 +412,8 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0836-rectangle-overlap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
