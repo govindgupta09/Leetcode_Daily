@@ -100,6 +100,7 @@ Leetcode_Daily............!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -113,6 +114,7 @@ Leetcode_Daily............!!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -215,6 +217,7 @@ Leetcode_Daily............!!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -381,6 +384,7 @@ Leetcode_Daily............!!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
@@ -416,4 +420,8 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
