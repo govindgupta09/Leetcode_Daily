@@ -80,6 +80,7 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0142-linked-list-cycle-ii) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1386-cinema-seat-allocation) |
@@ -390,6 +391,7 @@ Leetcode_Daily............!!
 | [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0382-linked-list-random-node) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
