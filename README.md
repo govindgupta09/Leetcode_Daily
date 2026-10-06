@@ -341,6 +341,7 @@ Leetcode_Daily............!!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -387,6 +388,7 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
