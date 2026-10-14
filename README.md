@@ -403,6 +403,7 @@ Leetcode_Daily............!!
 | [0328-odd-even-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0725-split-linked-list-in-parts) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
