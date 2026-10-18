@@ -294,6 +294,7 @@ Leetcode_Daily............!!
 | ------- |
 | [0086-partition-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0143-reorder-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -333,6 +334,7 @@ Leetcode_Daily............!!
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -348,6 +350,7 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -399,6 +402,7 @@ Leetcode_Daily............!!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0382-linked-list-random-node) |
