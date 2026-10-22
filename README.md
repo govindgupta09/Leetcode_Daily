@@ -338,10 +338,12 @@ Leetcode_Daily............!!
 | [0445-add-two-numbers-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Leetcode_Daily............!!
 | [0024-swap-nodes-in-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
@@ -412,6 +415,7 @@ Leetcode_Daily............!!
 | [1669-merge-in-between-linked-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
