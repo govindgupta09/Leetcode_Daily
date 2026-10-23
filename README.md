@@ -324,6 +324,7 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1260-shift-2d-grid) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -417,6 +418,7 @@ Leetcode_Daily............!!
 | [1669-merge-in-between-linked-lists](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
