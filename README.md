@@ -57,6 +57,7 @@ Leetcode_Daily............!!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -90,6 +91,7 @@ Leetcode_Daily............!!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3483-unique-3-digit-even-numbers) |
@@ -421,6 +423,7 @@ Leetcode_Daily............!!
 | [2181-merge-nodes-in-between-zeros](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
