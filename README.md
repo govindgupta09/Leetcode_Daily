@@ -275,6 +275,7 @@ Leetcode_Daily............!!
 | [1872-stone-game-viii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -316,6 +317,7 @@ Leetcode_Daily............!!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -422,6 +424,7 @@ Leetcode_Daily............!!
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
