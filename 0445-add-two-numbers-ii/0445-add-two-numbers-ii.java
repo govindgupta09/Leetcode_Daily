@@ -35,7 +35,6 @@ class Solution {
             int sum = x + y + carry;
             int ud = sum%10;
             carry = sum/10;
-            // ListNode carryNode = new ListNode(carry);
             ListNode newNode = new ListNode(ud);
             newNode.next = ans;
             ans = newNode;
