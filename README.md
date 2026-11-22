@@ -34,6 +34,7 @@ Leetcode_Daily............!!
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0835-image-overlap) |
@@ -168,6 +169,7 @@ Leetcode_Daily............!!
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -230,6 +232,7 @@ Leetcode_Daily............!!
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0835-image-overlap) |
 | [1219-path-with-maximum-gold](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1260-shift-2d-grid) |
@@ -258,6 +261,7 @@ Leetcode_Daily............!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2685-count-the-number-of-complete-components) |
@@ -392,6 +396,7 @@ Leetcode_Daily............!!
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0079-word-search) |
 | [1219-path-with-maximum-gold](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1219-path-with-maximum-gold) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
