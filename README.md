@@ -65,6 +65,7 @@ Leetcode_Daily............!!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3483-unique-3-digit-even-numbers) |
@@ -137,6 +138,7 @@ Leetcode_Daily............!!
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -197,6 +199,7 @@ Leetcode_Daily............!!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,6 +295,7 @@ Leetcode_Daily............!!
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -331,6 +335,7 @@ Leetcode_Daily............!!
 | [3312-sorted-gcd-pair-queries](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
