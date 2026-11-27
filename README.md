@@ -5,6 +5,7 @@ Leetcode_Daily............!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0877-stone-game) |
@@ -173,6 +174,7 @@ Leetcode_Daily............!!
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0940-distinct-subsequences-ii) |
@@ -374,6 +376,7 @@ Leetcode_Daily............!!
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
