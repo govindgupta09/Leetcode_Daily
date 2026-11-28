@@ -280,6 +280,7 @@ Leetcode_Daily............!!
 | [0445-add-two-numbers-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1140-stone-game-ii) |
@@ -323,6 +324,7 @@ Leetcode_Daily............!!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/govindgupta09/Leetcode_Daily/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -380,6 +382,7 @@ Leetcode_Daily............!!
 | [0024-swap-nodes-in-pairs](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/govindgupta09/Leetcode_Daily/tree/master/0779-k-th-symbol-in-grammar) |
 | [2487-remove-nodes-from-linked-list](https://github.com/govindgupta09/Leetcode_Daily/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/govindgupta09/Leetcode_Daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
